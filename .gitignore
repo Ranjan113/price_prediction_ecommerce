@@ -1,0 +1,5 @@
+test_images/
+train_images/
+venv310/
+venv/
+DS_Store/
